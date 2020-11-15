@@ -1,0 +1,51 @@
+body {margin:0px 0px 0px 0px;background:#ffffff;}
+*{-moz-box-sizing:    border-box;   /* Firefox 1, probably can drop this */
+   -webkit-box-sizing: border-box;   /* Safari 3-4, also probably droppable */
+    box-sizing:        border-box;
+    }
+a:link, a:visited {color:black;}
+a:hover {color:#333;}
+.hidden {opacity:0;filter:alpha(opacity=0);}
+h2 {margin:3px;}
+
+
+table.food_table td,
+table.food_table th{background:#fff;font-weight:bold;font-size:12px;font-family: sans-serif;border-style: solid;border-spacing: 0px;border: 1px solid black;
+  padding: 3px;empty-cells: show;overflow:hidden;}
+table.food_table th {background: rgb(182,221,232);}
+
+
+table.food_table {
+	margin-left:10px;
+	table-layout: fixed;
+	
+	border-collapse: collapse;
+	border-spacing: 0px;
+	padding: 3px;
+	
+	background-color: #CCCCCC;
+	empty-cells: show;
+}
+
+.button{
+	  border: 1px solid #272727;
+    background: #F3F3EE;
+    padding: 1px 8px;
+    font-size: 11px;
+    margin-top: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    color: black;
+}
+.button:hover	{background:#333;color:#fff;}
+.button_red						        {border: 1px solid #272727; background: red; padding: 1px 8px;font-size:11px;margin-top:5px;cursor:pointer;
+									         border-radius: 3px; color: black; }
+.button_red:hover							{background:#eee;color:#fff;}			
+.button_red a:link, .button_red a:visited{color:black;text-decoration:none;}	
+.button_red a:hover {background:#eee;}
+
+.screen_only {display:none;}
+
+.individual_edit{display:none;}
+
+.clear {clear:both;}

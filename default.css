@@ -1,0 +1,62 @@
+body {margin:0px 0px 0px 0px;background:#cccccc;}
+*{-moz-box-sizing:    border-box;   /* Firefox 1, probably can drop this */
+   -webkit-box-sizing: border-box;   /* Safari 3-4, also probably droppable */
+    box-sizing:        border-box;
+    }
+
+a:link, a:visited {color:black;}
+a:hover {color:#333;}
+.hidden {opacity:0;filter:alpha(opacity=0);}
+h2 {margin:3px;}
+
+
+table.food_table td,
+table.food_table th{background:#eee;font-weight:bold;font-size:16px;font-family: sans-serif;border-style: solid;border-spacing: 0px;border: 1px solid black;
+  padding: 3px;empty-cells: show;overflow:hidden;}
+table.food_table th {background: rgb(182,221,232);}
+
+
+table.food_table {
+	margin-left:10px;
+	table-layout: fixed;
+	
+	border-collapse: collapse;
+	border-spacing: 0px;
+	padding: 3px;
+	
+	background-color: #CCCCCC;
+	empty-cells: show;
+}
+
+a.button, a.button_red, a.button_green{text-decoration:none;}
+.button{
+	  border: 1px solid #272727;
+    background: #F3F3EE;
+    padding: 1px 8px;
+    font-size: 16px;
+    margin-top: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    color: black;
+    font-weight:normal;
+    font-family:arial;
+}
+.button:hover	{background:#333;color:#fff;}
+.button_red						        {border: 1px solid #272727; background: red; padding: 1px 8px;font-size:16px;margin-top:5px;cursor:pointer;
+									         border-radius: 3px; color: black; }
+.button_red:hover							{background:#eee;color:#fff;}			
+.button_red a:link, .button_red a:visited, .button a:link, .button a:visited{color:black;text-decoration:none;}	
+.button_red a:hover {background:#eee;}
+
+.button_green						        {border: 1px solid #272727; background: #52DC6A; padding: 1px 8px;font-size:16px;margin-top:5px;cursor:pointer;
+									         border-radius: 3px; color: black; }
+.button_green:hover							{background:#eee;color:#fff;}			
+.button_green a:link, .button_red a:visited, .button a:link, .button a:visited{color:black;text-decoration:none;}	
+.button_green a:hover {background:#eee;}
+
+#status {padding:10px;background:green;width:100px;display:none;}
+
+.individual_edit{display:none;}
+.individual_edit form{margin-left:50px;}
+
+.clear {clear:both;}

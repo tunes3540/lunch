@@ -1,0 +1,2253 @@
+Array
+(
+    [action] => choose
+    [res_id] => 4
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 4
+)
+
+Array
+(
+    [action] => add_res
+    [res] => Puerto Vallarta
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 26
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 9
+    [date_chosen] => 2019-04-10
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-04-17
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 23
+)
+
+Array
+(
+    [action] => choose_res
+    [res_id] => 23
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 23
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 51
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 52
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 23
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 5
+    [date_chosen] => 2019-04-24
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 10
+    [date_chosen] => 2019-04-04
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 19
+    [date_chosen] => 2019-03-06
+)
+
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-05-01
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 4
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 4
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 4
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 55
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 8
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 8
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 56
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 41
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 65
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 37
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 28
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 8
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 93
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 97
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 103
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 13
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 13
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 13
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 20
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 67
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 18
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 18
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 18
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 27
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 24
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 11
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 11
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 11
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 9
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 9
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 9
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 96
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 14
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 14
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 14
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 63
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 25
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 36
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 12
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 12
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 12
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 10
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 10
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 10
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 101
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 21
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 21
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 21
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 31
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 5
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 5
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 5
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 26
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 32
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 42
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 61
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 100
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 20
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 20
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 62
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 30
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 91
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 92
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 104
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 15
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 15
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 15
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 26
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 26
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 26
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 95
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 25
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 25
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 25
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 47
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 2
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 2
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 2
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 21
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 58
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 17
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 17
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 17
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 33
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 23
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 3
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 3
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 3
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 39
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 7
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 7
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 7
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 54
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 53
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 64
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 7
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 57
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 35
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 16
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 16
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 16
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 24
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 24
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 24
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 44
+)
+
+Array
+(
+    [action] => choose
+    [res_id] => 19
+)
+
+Array
+(
+    [action] => unchoose
+    [res_id] => 19
+)
+
+Array
+(
+    [action] => delete_res
+    [id] => 19
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 66
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 38
+)
+
+Array
+(
+    [action] => delete_res_record
+    [id] => 102
+)
+
+Array
+(
+    [action] => choose_res
+    [res_id] => <br /
+)
+
+Array
+(
+    [action] => add_res
+    [res] => test
+)
+05/21/2019
+Array
+(
+    [action] => add_res_record
+    [res_id] => 7
+    [date_chosen] => 2019-05-15
+)
+05/21/2019
+Array
+(
+    [action] => unchoose
+    [res_id] => 4
+)
+05/21/2019
+Array
+(
+    [action] => add_res
+    [res] => test
+)
+ 05/21/2019 ipaddress=
+Array
+(
+    [action] => delete_res
+    [id] => 27
+)
+ 05/21/2019 ipaddress=
+Array
+(
+    [action] => add_res
+    [res] => test
+)
+ 05/21/2019 ipaddress=
+Array
+(
+    [action] => delete_res
+    [id] => 28
+)
+ 05/21/2019 ipaddress=
+Array
+(
+    [action] => add_res
+    [res] => test
+)
+ 05/21/2019 ipaddress= 151.165.212.93 167.186.174.123
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 06/05/2019 ipaddress= 151.165.212.93 localip=167.186.174.123
+Array
+(
+    [action] => add_res
+    [res] => El Jalisco
+)
+ 06/12/2019 ipaddress= 151.165.212.93 localip=167.186.174.123
+Array
+(
+    [action] => choose
+    [res_id] => 30
+)
+ 06/12/2019 ipaddress= 151.165.212.93 localip=167.186.174.123
+Array
+(
+    [action] => choose
+    [res_id] => 4
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 4
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 4
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 55
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 8
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 8
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 56
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 41
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 65
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 37
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 28
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 8
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 93
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 97
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 103
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 106
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 13
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 13
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 13
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 20
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 67
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 30
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 30
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 30
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 107
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 18
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 18
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 18
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 27
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 24
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 11
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 11
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 11
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 9
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 9
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 9
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 96
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 14
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 14
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 14
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 63
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 25
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 36
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 12
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 12
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 12
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 10
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 10
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 10
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 101
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 21
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 21
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 21
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 31
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 5
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 5
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 5
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 26
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 32
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 42
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 61
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 100
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 20
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 20
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 62
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 30
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 91
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 92
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 104
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 15
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 15
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 15
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 26
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 26
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 26
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 95
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 25
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 25
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 25
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 47
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 2
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 2
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 2
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 21
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 58
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 17
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 17
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 17
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 33
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 23
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 3
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 3
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 3
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 39
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 29
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 29
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 29
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 7
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 7
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 7
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 54
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 53
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 64
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 7
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 57
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 35
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 105
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 16
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 16
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 16
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 24
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 24
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 24
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 44
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 19
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 19
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res
+    [id] => 19
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 66
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 38
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 102
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => choose_res
+    [res_id] => <br /
+)
+ 06/21/2019 ipaddress= 46.4.100.132 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-06-19
+)
+ 06/24/2019 ipaddress= 151.165.212.93 localip=167.186.174.123
+Array
+(
+    [action] => add_res
+    [res] => B & C Barbeque
+)
+ 06/25/2019 ipaddress= 151.165.212.93 localip=167.186.174.123
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+ 07/03/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => delete_res_record
+    [id] => 109
+)
+ 07/03/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Gabby's
+)
+ 07/03/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 32
+)
+ 07/03/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+ 07/10/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => delete_res
+    [id] => 29
+)
+ 07/12/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => QDoba
+)
+ 07/25/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 33
+    [date_chosen] => 2019-07-24
+)
+ 07/25/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 08/01/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => edit_rest_record
+    [id] => 113
+    [date_chosen] => 2019-07-31
+)
+ 08/01/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 14
+)
+ 08/07/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Vietnam Nom
+)
+ 08/15/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2019-08-14
+)
+ 08/15/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 20
+)
+ 08/22/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 91
+)
+ 08/22/2019 ipaddress= 74.221.201.197 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 4
+)
+ 08/28/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => unchoose
+    [res_id] => 31
+)
+ 08/28/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-09-04
+)
+ 09/05/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 14
+)
+ 09/11/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 09/18/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2019-09-19
+)
+ 09/20/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 12
+)
+ 09/25/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 12
+)
+ 09/25/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 7
+)
+ 10/02/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-10-09
+)
+ 10/10/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2019-10-03
+)
+ 10/10/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Thaos Bistro
+)
+ 10/30/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 35
+)
+ 10/30/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Taos Bistro
+)
+ 11/05/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 35
+    [date_chosen] => 2019-10-30
+)
+ 11/05/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2019-11-07
+)
+ 11/08/2019 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 3
+    [date_chosen] => 2019-11-06
+)
+ 11/08/2019 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 13
+    [date_chosen] => 2019-11-13
+)
+ 11/14/2019 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 5
+)
+ 11/20/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 19
+)
+ 11/25/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 12/04/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 10
+    [date_chosen] => 2019-12-05
+)
+ 12/06/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 10
+    [date_chosen] => 2019-11-26
+)
+ 12/06/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2019-12-11
+)
+ 12/17/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 7
+    [date_chosen] => 2019-12-18
+)
+ 12/19/2019 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-01-08
+)
+ 01/15/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 35
+    [date_chosen] => 2020-01-15
+)
+ 01/16/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Mexican Burrito
+)
+ 01/27/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 36
+    [date_chosen] => 2020-01-22
+)
+ 01/27/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 5
+    [date_chosen] => 2020-01-29
+)
+ 01/30/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-02-05
+)
+ 02/10/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Uno Mas
+)
+ 02/14/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 37
+    [date_chosen] => 2020-02-12
+)
+ 02/14/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-02-13
+)
+ 02/14/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 02/19/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Sams Southern Eatery
+)
+ 03/04/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 38
+    [date_chosen] => 2020-02-26
+)
+ 03/04/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Twin Peaks
+)
+ 03/12/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 39
+    [date_chosen] => 2020-03-11
+)
+ 03/12/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 14
+)
+ 05/14/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-07-01
+)
+ 07/07/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-07-02
+)
+ 07/07/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 20
+    [date_chosen] => 2020-07-08
+)
+ 07/12/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-07-09
+)
+ 07/12/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 4
+    [date_chosen] => 2020-07-15
+)
+ 07/20/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-07-16
+)
+ 07/20/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res
+    [res] => Subway Yingling
+)
+ 07/20/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 40
+    [date_chosen] => 2020-07-17
+)
+ 07/20/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-07-22
+)
+ 07/23/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 12
+    [date_chosen] => 2020-07-29
+)
+ 08/04/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-07-30
+)
+ 08/04/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-07-16
+)
+ 08/04/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => delete_res_record
+    [id] => 159
+)
+ 08/04/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 31
+)
+ 08/05/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => unchoose
+    [res_id] => 37
+)
+ 08/05/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 08/05/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 38
+)
+ 08/12/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res
+    [res] => Angry Elephant
+)
+ 08/25/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 41
+    [date_chosen] => 2020-08-19
+)
+ 08/25/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-08-20
+)
+ 08/25/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 15
+    [date_chosen] => 2020-08-26
+)
+ 08/26/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => choose
+    [res_id] => 35
+)
+ 08/27/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 35
+    [date_chosen] => 2020-08-27
+)
+ 08/31/2020 ipaddress= 74.221.202.135 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-09-02
+)
+ 09/08/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-09-03
+)
+ 09/08/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 13
+    [date_chosen] => 2020-09-16
+)
+ 09/22/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-09-17
+)
+ 09/22/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 12
+    [date_chosen] => 2020-09-09
+)
+ 09/22/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 8
+    [date_chosen] => 2020-09-23
+)
+ 09/30/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-09-24
+)
+ 09/30/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 4
+    [date_chosen] => 2020-09-30
+)
+ 10/01/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-10-01
+)
+ 10/02/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res
+    [res] => Picasso's
+)
+ 10/10/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 42
+    [date_chosen] => 2020-10-07
+)
+ 10/10/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res
+    [res] => Town & Country Classic
+)
+ 10/10/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 43
+    [date_chosen] => 2020-10-08
+)
+ 10/10/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 14
+    [date_chosen] => 2020-10-14
+)
+ 10/15/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 11
+    [date_chosen] => 2020-10-21
+)
+ 10/22/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => choose
+    [res_id] => 8
+)
+ 10/28/2020 ipaddress= 151.165.212.93 localip=167.186.175.111
+Array
+(
+    [action] => add_res_record
+    [res_id] => 20
+    [date_chosen] => 2020-10-29
+)
+ 10/31/2020 ipaddress= 74.221.200.69 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 34
+    [date_chosen] => 2020-11-05
+)
+ 11/09/2020 ipaddress= 104.200.142.217 localip=
+Array
+(
+    [action] => add_res
+    [res] => Mediterranean Grill
+)
+ 11/09/2020 ipaddress= 104.200.142.217 localip=
+Array
+(
+    [action] => add_res_record
+    [res_id] => 44
+    [date_chosen] => 2020-11-04
+)
+ 11/09/2020 ipaddress= 104.200.142.217 localip=
